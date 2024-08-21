@@ -1,0 +1,304 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta author="Michal H. Kolář">
+
+	<title>
+        Computer simulations of the ribosome
+    </title>
+
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css">
+    <link rel="stylesheet" href="dist/theme/white.mhk.css" id="theme">
+
+</head>
+	<body>
+        <div class="reveal">
+	        <div class="slides">
+<!--
+============ SLIDES START HERE ============
+-->
+
+
+<section>
+    <p>
+        contributed talk given at <a href="https://www.mdanalysis.org/pages/ugm2024/">MDAnalysis User Group Meeting</a>, King's College London, UK
+    </p>
+    <p>
+        Created using <a href="https://revealjs.com" target="_blank">Reveal.js</a>.
+    </p>
+    <p style="margin-top: 2em">
+        Use the right arrow to start browsing the slides.
+    </p>
+</section>
+
+
+<section style="text-align: left">
+    <div class="leftcol">
+        <img src="./media/logos/ufch.png" style="width:66%">
+        <h2 style="margin-top:2em; font-size: 49px">
+            Computer simulations of the ribosome
+        </h2>
+        <h4 style="margin-top: 4em; margin-bottom: 1em">Michal H. Kolář</h4>
+        <h4><a href="#" target="_blank">michal@mhko.science</a></h4>
+
+    </div>
+    <div class="rightcol">
+        <video width="100%" nocontrols autoplay loop style="margin-top: 4em">
+            <source data-src="./media/out-rna.mp4" type="video/mp4">
+        </video>
+    </div>
+</section>
+
+
+<section>
+    <div style="width: 100%">
+        <img src="./media/sitting2-ntk.jpg">
+        <div style="padding: 1em; display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center">
+            <img src="./media/logos/vscht.png" style="height: 60px;">
+            <img src="./media/logos/gacr.png" style="height: 70px;">
+            <img src="./media/logos/czexpats.png" style="height: 90px;">
+            <img src="./media/logos/it4i.png" style="height: 55px;">
+            <img src="./media/logos/mpcdf.png" style="height: 55px;">
+        </div>
+    </div>
+</section>
+
+
+<section>
+    <img src="./media/reaction/reaction.png" style="margin-top:1em; width: 70%">
+</section>
+
+
+<section>
+    <img src="./media/translation-scheme/scheme-1.png" style="width:70%">
+</section>
+
+
+<section data-background-video="./media/ribosome-intro.mp4"
+         data-background-video-loop="true"
+         data-background-color="white"
+         data-background-size="contain">
+    &nbsp;
+</section>
+
+
+<section data-background-image="./media/vibrio.jpg"
+         data-background-color="black"
+         data-background-size="cover">
+  <h2 style="color: white; margin-bottom:7em">Vibrio alginolyticus</h2>
+  <h3 style="color: white">Vibrio Export Monitoring Polypeptide (VemP)</h3>
+  <p>&nbsp;</p>
+  <p style="color: white">photo courtesy: Dr. Gary Gaugler, Visuals Unlimited, Inc.</p>
+</section>
+
+
+
+<section data-background-image="./media/cross-section.png"
+         data-background-size=70%>
+    <!--
+        Typically, the nascent polypeptide is disordered within the ribosome tunnel
+        This complicates the structural characterization of nascent polypeptides by cryo-EM or X-ray.
+        Not the case of VemP!
+    -->
+</section>
+
+
+<section data-background-image="./media/vemp-anchor-struct.png"
+         data-background-size=70%>
+    <!--
+        - Typically, the nascent polypeptide is disordered within the ribosome tunnel
+        - This complicates the structural characterization of nascent polypeptides by cryo-EM or X-ray.
+        - Not the case of VemP!
+    -->
+</section>
+
+
+<section style="text-align: left">
+    <h3>Simulations</h3>
+    <ul>
+        <li>GROMACS 2019</li>
+        <li>Amber12sb + SPC/E water</li>
+        <li>CHARMM36m + TIP3P water</li>
+        <li>four independent trajectories <b>in ribosome</b> (1500 ns/traj)</li>
+        <li>eight independent trajetories <b>in water</b> (4000 ns/traj)</li>
+    </ul>
+    <h3 style="margin-top:1em">Analysis</h3>
+    <ul>
+        <li>MDAnalysis to interface between Gromacs and Python</li>
+        <li>PDB and XTC file formats</li>
+        <li>PDB with ca 150k non-hydrogen atoms</li>
+        <li><i>segid</i> selection keyword critical</li>
+    </ul>
+</section>
+
+
+<section>
+    <div class="leftcol" style="text-align:center">
+        <h4>Structure</h4>
+    </div>
+    <div class="rightcol" style="text-align: center">
+        <h4>Dynamics</h4>
+    </div>
+    <img src="./media/vemp-anchor-plots.png">
+</section>
+
+
+<section data-background-color="#B0EEB0">
+    <div style="width:70%; margin: 0 auto; text-align:left;">
+        <p>take this home:</p>
+        <h3 style="margin-top: 3em">Folding of VemP into translation-arresting secondary structure is driven by the ribosome exit tunnel</h3>
+        <p style="margin-top: 2em"><a href="https://pubmed.ncbi.nlm.nih.gov/35150281">PMID 35150281</a></p>
+    </div>
+</section>
+
+
+<section>
+</section>
+
+<section>
+    <div class="r-stack">
+        <img src="./media/tunnel/tunnel-1.png" style="width:70%">
+        <img src="./media/tunnel/tunnel-2.png" style="width:70%" class="fragment">
+        <img src="./media/tunnel/tunnel-3.png" style="width:70%" class="fragment">
+        <img src="./media/tunnel/tunnel-4.png" style="width:70%" class="fragment">
+        <img src="./media/tunnel/tunnel-5.png" style="width:70%" class="fragment">
+    </div>
+</section>
+
+
+
+
+<section data-background-image="./media/pdf-strategy/strategy.png"
+         data-background-size="90%"
+         data-background-position="center">
+    <!--
+        1. run simulations of the ribosome with and without PDF
+        2. use the trajectories to build a predictor
+        3. test a predictive power of various parts of the ribosome
+    -->
+</section>
+
+
+<section style="text-align: left">
+    <h3>Simulations</h3>
+    <ul>
+        <li>GROMACS 2019</li>
+        <li>Amber12sb + SPC/E water</li>
+        <li>four independent simulations for PDF+ and PDF&minus;</li>
+        <li>1000 ns/traj</li>
+    </ul>
+
+    <h3 style="margin-top:1em">Analyses</h3>
+    <ul>
+        <li>Functional Mode Analysis by Hub <i>et al.</i> PMID <a href="https://pubmed.ncbi.nlm.nih.gov/19714202/">19714202</a> </li>
+        <li>built on top of PCA module of <a href="https://www.mdanalysis.org">MDAnalysis</a></li>
+        <li>later combined with scikit-learn</li>
+        <li>major bottleneck was handling large XTC files</li>
+    </ul>
+</section>
+
+<section>
+    <img src="./media/mf-ul22tip.png" style="width: 80%">
+</section>
+
+
+<section>
+    <div class="r-stack" style="margin-top: 3em">
+        <img src="./media/histograms/histograms-0.png" style="width:100%">
+        <img src="./media/histograms/histograms-1.png" style="width:100%" class="fragment">
+    </div>
+</section>
+
+
+<section>
+    <h3>Prediction accuracy</h3>
+    <img src="./media/accuracy/accuracy.png" style="width: 100%">
+</section>
+
+
+<section>
+    <img src="./media/mcm.png" style="width: 100%">
+</section>
+
+
+
+<section data-background-color="#B0EEB0">
+    <div style="width:70%; margin: 0 auto; text-align:left;">
+    <p>take this home:</p>
+    <h3 style="margin-top: 3em">The presence or absence of PDF can be predicted from conformations of distant ribosome parts.</h3>
+    </div>
+</section>
+
+
+
+<section data-background-color="#B0EEB0">
+    <div style="width:70%; margin: 0 auto; text-align:left;">
+        <p>take this home:</p>
+        <h3 style="margin-top: 3em">Binding of the peptide deformylase on the ribosome surface modulates the exit tunnel interior.</h3>
+        <p style="margin-top: 2em"><a href="https://pubmed.ncbi.nlm.nih.gov/29202442">PMID: 29202442</a><p>
+        <p><a href="https://github.com/mhkoscience/mcgrath-pdfribo">https://github.com/mhkoscience/mcgrath-pdfribo</a></p>
+        <p><a href="https://repozitar.vscht.cz/theses/39798">McGrath's diploma thesis</a></p>
+    </div>
+</section>
+
+
+
+<section style="text-align: left">
+    <div class="leftcol">
+        <img src="./media/logos/ufch.png" style="width:66%">
+        <h2 style="margin-top:2em; font-size: 49px">
+            Computer simulations of the ribosome
+        </h2>
+        <h4 style="margin-top: 4em; margin-bottom: 1em">Michal H. Kolář</h4>
+        <h4><a href="#" target="_blank">michal@mhko.science</a></h4>
+
+    </div>
+    <div class="rightcol">
+        <video width="100%" nocontrols autoplay loop style="margin-top: 4em">
+            <source data-src="./media/out-rna.mp4" type="video/mp4">
+        </video>
+    </div>
+</section>
+
+
+
+<section>
+    <h3>Structural analysis</h3>
+    <img src="./media/rwRMSD/structures.png" style="width:70%">
+</section>
+
+
+<section>
+    <img src="./media/rwRMSD/ecoli.png" style="width:50%">
+</section>
+
+
+
+<!--
+============ SLIDES END HERE ============
+-->
+            </div>
+        </div>
+
+		<script src="dist/reveal.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+                autoPlayMedia: true,
+                controls: false,
+                progress: true, 
+                slideNumber: true,
+                transition: 'none', 
+                backgroundTransition: 'none',
+                center: false,
+			});
+		</script>
+	</body>
+</html>
+        

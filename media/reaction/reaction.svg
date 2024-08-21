@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="reaction.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path970"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="231.82061"
+     inkscape:cy="994.78017"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="28.064732"
+       y="51.126484"
+       id="text1127"><tspan
+         sodipodi:role="line"
+         id="tspan1125"
+         x="28.064732"
+         y="54.079777"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g1961"
+       inkscape:export-xdpi="761.21997"
+       inkscape:export-ydpi="761.21997">
+      <rect
+         y="24.896179"
+         x="34.939762"
+         height="47.173069"
+         width="70.071404"
+         id="rect1869"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42375556;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <g
+         id="g1914">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="90.329308"
+           y="29.70797"
+           id="text1147"><tspan
+             sodipodi:role="line"
+             id="tspan1145"
+             x="90.329308"
+             y="29.70797"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#d40000;stroke-width:0.26458332">protein</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="44.217644"
+           y="50.349083"
+           id="text1505"><tspan
+             sodipodi:role="line"
+             id="tspan1503"
+             x="44.217644"
+             y="50.349083"
+             style="stroke-width:0.26458332">+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="96.114143"
+           y="37.183308"
+           id="text1509"><tspan
+             sodipodi:role="line"
+             id="tspan1507"
+             x="96.114143"
+             y="37.183308"
+             style="stroke-width:0.26458332">+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="96.114143"
+           y="50.349083"
+           id="text1513"><tspan
+             sodipodi:role="line"
+             id="tspan1511"
+             x="96.114143"
+             y="50.349083"
+             style="stroke-width:0.26458332">+</tspan></text>
+        <g
+           id="g1867"
+           transform="translate(15.030402,-6.0464554)">
+          <text
+             id="text1131"
+             y="49.814545"
+             x="24.190475"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';stroke-width:0.26458332"
+               y="49.814545"
+               x="24.190475"
+               id="tspan1129"
+               sodipodi:role="line"><tspan
+   id="tspan1639"
+   style="fill:#d40000">aa</tspan>-<tspan
+   id="tspan1647"
+   style="fill:#0066ff">tRNA</tspan></tspan></text>
+          <text
+             id="text1517"
+             y="49.814545"
+             x="20.704382"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.26458332"
+               y="49.814545"
+               x="20.704382"
+               id="tspan1515"
+               sodipodi:role="line">n</tspan></text>
+        </g>
+        <g
+           id="g1859"
+           transform="translate(18.602583,-3.0084988)">
+          <text
+             id="text1139"
+             y="59.970787"
+             x="25.84416"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00aa44;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#00aa44;stroke-width:0.26458332"
+               y="59.970787"
+               x="25.84416"
+               id="tspan1137"
+               sodipodi:role="line">GTP</tspan></text>
+          <text
+             id="text1521"
+             y="59.970787"
+             x="20.197992"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.26458332"
+               y="59.970787"
+               x="20.197992"
+               id="tspan1519"
+               sodipodi:role="line">2n</tspan></text>
+        </g>
+        <g
+           id="g1667"
+           transform="translate(0.59335965,-10.590038)">
+          <text
+             id="text1135"
+             y="54.358128"
+             x="93.447693"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0066ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#0066ff;stroke-width:0.26458332"
+               y="54.358128"
+               x="93.447693"
+               id="tspan1133"
+               sodipodi:role="line">tRNA</tspan></text>
+          <text
+             id="text1525"
+             y="54.358128"
+             x="89.864967"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.26458332"
+               y="54.358128"
+               x="89.864967"
+               id="tspan1523"
+               sodipodi:role="line">n</tspan></text>
+        </g>
+        <g
+           id="g1661"
+           transform="translate(0.55072858,-7.1511757)">
+          <text
+             id="text1143"
+             y="64.113464"
+             x="95.466606"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00aa44;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#00aa44;stroke-width:0.26458332"
+               y="64.113464"
+               x="95.466606"
+               id="tspan1141"
+               sodipodi:role="line">GDP</tspan></text>
+          <text
+             id="text1529"
+             y="64.113464"
+             x="89.820435"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.26458332"
+               y="64.113464"
+               x="89.820435"
+               id="tspan1527"
+               sodipodi:role="line">2n</tspan></text>
+        </g>
+        <text
+           id="text1651"
+           y="63.543297"
+           x="96.114143"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="63.543297"
+             x="96.114143"
+             id="tspan1649"
+             sodipodi:role="line">+</tspan></text>
+        <g
+           id="g1673"
+           transform="translate(2.7684071,-4.803312)">
+          <text
+             id="text1645"
+             y="74.959816"
+             x="96.013443"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00aa44;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#00aa44;stroke-width:0.26458332"
+               y="74.959816"
+               x="96.013443"
+               id="tspan1643"
+               sodipodi:role="line">P</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="90.5037"
+             y="74.959816"
+             id="text1655"><tspan
+               sodipodi:role="line"
+               id="tspan1653"
+               x="90.5037"
+               y="74.959816"
+               style="stroke-width:0.26458332">2n</tspan></text>
+        </g>
+        <g
+           id="g1853"
+           transform="translate(1.3953158,0.22291417)">
+          <text
+             id="text817"
+             y="46.488617"
+             x="60.938408"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';stroke-width:0.26458332"
+               y="46.488617"
+               x="60.938408"
+               id="tspan815"
+               sodipodi:role="line">ribosome</tspan></text>
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path823"
+             d="M 55.53101,48.858547 H 82.904163"
+             style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="63.82135"
+             y="53.972149"
+             id="text1696"><tspan
+               sodipodi:role="line"
+               id="tspan1694"
+               x="63.82135"
+               y="53.972149"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';stroke-width:0.26458332">mRNA</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
