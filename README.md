@@ -1,6 +1,6 @@
 # Computer simulations of the ribosome
 
-slides of a contributed talk on the MDAnalysis User Group meeting
+slides of a contributed talk given at the MDAnalysis User Group meeting
 
 presenter: Michal H. Kolář
 
